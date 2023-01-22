@@ -1,0 +1,129 @@
+CONVERTER TEST
+
+==================================================
+1: 11.inp
+INFO: Reading 11.inp
+INFO: Mesh parser: 2 nodes, 3 nsets, 1 elements, 1 elsets, 0 surfaces
+INFO: Writing 11.unv
+
+==================================================
+2: 111.inp
+INFO: Reading 111.inp
+INFO: Mesh parser: 4 nodes, 5 nsets, 1 elements, 1 elsets, 0 surfaces
+INFO: Writing 111.unv
+
+==================================================
+3: 112.inp
+INFO: Reading 112.inp
+INFO: Mesh parser: 6 nodes, 7 nsets, 1 elements, 1 elsets, 0 surfaces
+INFO: Writing 112.unv
+
+==================================================
+4: 113.inp
+INFO: Reading 113.inp
+INFO: Mesh parser: 15 nodes, 16 nsets, 1 elements, 1 elsets, 0 surfaces
+INFO: Writing 113.unv
+
+==================================================
+5: 115.inp
+INFO: Reading 115.inp
+INFO: Mesh parser: 8 nodes, 9 nsets, 1 elements, 1 elsets, 0 surfaces
+INFO: Writing 115.unv
+
+==================================================
+6: 116.inp
+INFO: Reading 116.inp
+INFO: Mesh parser: 20 nodes, 21 nsets, 1 elements, 1 elsets, 0 surfaces
+INFO: Writing 116.unv
+
+==================================================
+7: 118.inp
+INFO: Reading 118.inp
+INFO: Mesh parser: 10 nodes, 11 nsets, 1 elements, 1 elsets, 0 surfaces
+INFO: Writing 118.unv
+
+==================================================
+8: 22.inp
+INFO: Reading 22.inp
+INFO: Mesh parser: 3 nodes, 4 nsets, 1 elements, 1 elsets, 0 surfaces
+INFO: Writing 22.unv
+
+==================================================
+9: 41.inp
+INFO: Reading 41.inp
+INFO: Mesh parser: 3 nodes, 4 nsets, 1 elements, 1 elsets, 0 surfaces
+INFO: Writing 41.unv
+
+==================================================
+10: 42.inp
+INFO: Reading 42.inp
+INFO: Mesh parser: 6 nodes, 7 nsets, 1 elements, 1 elsets, 0 surfaces
+INFO: Writing 42.unv
+
+==================================================
+11: 44.inp
+INFO: Reading 44.inp
+INFO: Mesh parser: 4 nodes, 5 nsets, 1 elements, 1 elsets, 0 surfaces
+INFO: Writing 44.unv
+
+==================================================
+12: 45.inp
+INFO: Reading 45.inp
+INFO: Mesh parser: 8 nodes, 9 nsets, 1 elements, 1 elsets, 0 surfaces
+INFO: Writing 45.unv
+
+==================================================
+13: Compound_Mesh_2D.inp
+INFO: Reading Compound_Mesh_2D.inp
+INFO: Mesh parser: 26 nodes, 15 nsets, 6 elements, 12 elsets, 0 surfaces
+INFO: Writing Compound_Mesh_2D.unv
+
+==================================================
+14: Compound_Mesh_3D.inp
+INFO: Reading Compound_Mesh_3D.inp
+INFO: Mesh parser: 63 nodes, 21 nsets, 6 elements, 6 elsets, 0 surfaces
+INFO: Writing Compound_Mesh_3D.unv
+
+==================================================
+15: CylinderShell.inp
+INFO: Reading CylinderShell.inp
+INFO: Mesh parser: 672 nodes, 2 nsets, 724 elements, 3 elsets, 0 surfaces
+INFO: Writing CylinderShell.unv
+
+==================================================
+16: CylinderSolid.inp
+INFO: Reading CylinderSolid.inp
+INFO: Mesh parser: 2062 nodes, 2 nsets, 10307 elements, 4 elsets, 0 surfaces
+INFO: Writing CylinderSolid.unv
+
+==================================================
+17: Ihor_Mirzov_Baffle_2D.inp
+INFO: Reading Ihor_Mirzov_Baffle_2D.inp
+INFO: Mesh parser: 3111 nodes, 1 nsets, 6232 elements, 4 elsets, 0 surfaces
+INFO: Writing Ihor_Mirzov_Baffle_2D.unv
+
+==================================================
+18: Ihor_Mirzov_Baffle_3D.inp
+INFO: Reading Ihor_Mirzov_Baffle_3D.inp
+INFO: Mesh parser: 12086 nodes, 8 nsets, 68370 elements, 8 elsets, 0 surfaces
+INFO: Writing Ihor_Mirzov_Baffle_3D.unv
+
+==================================================
+19: Niclas_Stenberg_Empty_set.inp
+INFO: Reading Niclas_Stenberg_Empty_set.inp
+INFO: Mesh parser: 4 nodes, 1 nsets, 1 elements, 1 elsets, 0 surfaces
+INFO: Writing Niclas_Stenberg_Empty_set.unv
+
+==================================================
+20: Yikun_Wang_Compound_Mesh.inp
+INFO: Reading Yikun_Wang_Compound_Mesh.inp
+INFO: Mesh parser: 8742 nodes, 3 nsets, 12424 elements, 6 elsets, 0 surfaces
+INFO: Writing Yikun_Wang_Compound_Mesh.unv
+
+==================================================
+21: default_original.inp
+INFO: Reading default_original.inp
+INFO: Mesh parser: 116 nodes, 10 nsets, 75 elements, 7 elsets, 3 surfaces
+INFO: Writing default_original.unv
+
+Total 4.6 seconds
