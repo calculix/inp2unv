@@ -62,6 +62,7 @@ Please, you may:
 - Simply use this software and ask questions.
 - Share your models and screenshots.
 - Report problems by [posting issues](https://github.com/calculix/inp2unv/issues).
+- Or even [become a sponsor to me](https://github.com/sponsors/imirzov).
 
 <br/><br/>
 
