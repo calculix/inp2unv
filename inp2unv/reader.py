@@ -4,6 +4,7 @@
 """© Ihor Mirzov, 2023
 Distributed under GNU General Public License v3.0
 
+INP file reader. Uses 'mesh' module to parse nodes, elements etc.
 """
 
 import mesh

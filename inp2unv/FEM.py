@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-""" © Joël Cugnoni, September 2006 """
+"""© Joël Cugnoni, September 2006"""
 
 
 # A simple FEM object structure

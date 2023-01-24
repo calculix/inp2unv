@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-""" © Ihor Mirzov, 2019-2020
+"""© Ihor Mirzov, 2019-2023
 Distributed under GNU General Public License v3.0
 
 Converts UNV file from Salome to CalculiX INP mesh:
 python3 ./unv2ccx/__init__.py ./examples/116.unv
 
 Reads UNV_file, creates an internal FEM object,
-then writes the INP_file. """
+then writes the INP_file.
+"""
 
 import os
 import sys
